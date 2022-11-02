@@ -10,7 +10,7 @@ body {
   background: #121214;
   background-image: url(../assets/bg-blue.svg);
   background-position-x: center;
-  background-position-y: 55.6%;
+  background-position-y: 715px;
 }
 
 body * {
@@ -24,6 +24,13 @@ body * {
 
 header {
   margin-bottom: 63px;
+  text-align: center;
+}
+
+#cards {
+  display: flex;
+
+  gap: 32px;
 }
 
 .card {
