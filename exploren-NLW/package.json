@@ -1,0 +1,19 @@
+{
+  "name": "exploren-nlw",
+  "version": "1.0.0",
+  "description": "project coup calendar | Rockeatseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CristianPietro/coup-calendar-NLW.git"
+  },
+  "author": "Cristian Pietro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CristianPietro/coup-calendar-NLW/issues"
+  },
+  "homepage": "https://github.com/CristianPietro/coup-calendar-NLW#readme"
+}
